@@ -1,0 +1,39 @@
+body{
+    background-image: url("images/sundar-pichai.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:calc(20%);
+    
+}
+.content{
+    font-size: 32px;
+    font-family: serif;
+    max-width: 522px;
+    margin: 7px auto;
+    font-style: initial;
+    color: coral;
+}
+.content h1{
+    font-style:italic;
+}
+.about_section p{
+    font-size: 25px;
+    color: antiquewhite;
+    margin-top: 90px;
+}
+.about_section h2{
+    font-size:55px;
+    color:yellow;
+}
+.first,.second,.third,.fourth{
+    font-size: 50px;
+    color: chocolate;
+    font-style: italic;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.details{
+    font-size: 30px;
+    font-family: serif;
+    color:antiquewhite;
+}
